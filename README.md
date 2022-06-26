@@ -9,7 +9,7 @@ DCAD is an Android application. "Dosagem de Concreto de Alto Desempenho" (or Dos
 The software starts with a main window, which the user can preview some operations in its menu. There are 4 buttons: "Nova Dosagem" (New dosage), "Sobre os Materiais" (About materials), "Utilizando o Aplicativo" (Using the app), "Sobre o Aplicativo" (about the app) and "Sair" (exit).
 
 <div>
-<img src="Figures/01.png" width="25%">
+<img src="Figures/01.png" width="20%">
 </div>
 <p>
  <b>Figure 1:</b> DCAD - Principal Window
@@ -18,19 +18,7 @@ The software starts with a main window, which the user can preview some operatio
 "New Dosage" is the main steep. The DCAD App opens a new window with some pieces of information to complete about the materials, as possible to observe these characteristics in the description at [https://github.com/AnaWaldila/dcad] and read more in Reis et al (2016). All information are present in Figures 2:
 
 <div>
-<img src="Figures/02.png" width="20%" hspace="5">
-</div>
-
-<div>
-<img src="Figures/03.png" width="20%" hspace="5">
-</div>
-
-<div>
-<img src="Figures/04.png" width="20%" hspace="5">
-</div>
-
-<div>
-<img src="Figures/05.png" width="20%" hspace="5">
+<img src="Figures/11.png" width="80%" hspace="5">
 </div>
 
 <p>
