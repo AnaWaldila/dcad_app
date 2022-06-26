@@ -1,12 +1,12 @@
-# DCAD Desktop Version 1.0
+# DCAD App Version 1.0
 
 ## Introduction
 
-DCAD is a app for Android. "Dosagem de Concreto de Alto Desempenho", the name in Portuguese, this app presents a dosage for a High Performance Concrete (HPC) based on the characteristics of the materials and the method choose for the user. DCAD only needs material's characteristics to calculate the dosage.
+DCAD is an Android application. "Dosagem de Concreto de Alto Desempenho" (or Dosage of High Performance Concrete), this app calculate a dosage for a High Performance Concrete (HPC) based on the characteristics of the materials and the method chosen by the user. 
 
 ## Software DCAD
 
-The software starts with a principal window, where it is possible to see some operations in their menu. There are 4 buttons: "Nova Dosagem" (new dosage), "Sobre os Materiais" (about the materials), "Utilizando o Aplicativo" (using app), "Sobre o Aplicativo" (about the app) and "Sair" (exit).
+The software starts with a main window, which the user can preview some operations in its menu. There are 4 buttons: "Nova Dosagem" (New dosage), "Sobre os Materiais" (About materials), "Utilizando o Aplicativo" (Using the app), "Sobre o Aplicativo" (about the app) and "Sair" (exit).
 
 <div>
 <img src="Figures/01.png" width="25%">
@@ -15,7 +15,7 @@ The software starts with a principal window, where it is possible to see some op
  <b>Figure 1:</b> DCAD - Principal Window
 </p>
 
-"Nova Dosagem" (new dosagem) is the principal steep. The App open a new window with some informations to complete about the materials (you can see this characteristics in description in [https://github.com/AnaWaldila/dcad] and read more in Reis et al (2016). All informations are present in Figures 2:
+"New Dosage" is the main steep. The DCAD App opens a new window with some pieces of information to complete about the materials, as possible to observe these characteristics in the description at [https://github.com/AnaWaldila/dcad] and read more in Reis et al (2016). All information are present in Figures 2:
 
 <div>
 <img src="Figures/02.png" width="20%" hspace="5">
@@ -37,7 +37,7 @@ The software starts with a principal window, where it is possible to see some op
  <b>Figure 2:</b> DCAD - Dosage Window
 </p>
 
-Finally, press button "Resultado" (result) and a new window is opened, Figure 3. In this window, the user needs to insert the volume of concrete that wants, in "Volume de Concreto (m³)" (concrete volume, m³). After insert this information, only click in button "Calcular" (calculate) and the column is completed.
+Finally, press the button "Result" (result) and a new window opens, as shown in Figure 3. In this window, the user needs to enter the volume of concrete, in "Volume de concreto (m³)" (volume of concrete, m³). After insert this information, just click the "Calcular" button (calculate) and the column is completed.
 
 <div>
 <img src="Figures/06.png" width="25%">
@@ -46,7 +46,7 @@ Finally, press button "Resultado" (result) and a new window is opened, Figure 3.
  <b>Figure 3:</b> DCAD - Result Window
 </p>
 
-Button "Sobre os Materiais" (about the materials) and "Utilizando o Aplicativo" (using app) show a simple help to user about all materiais that are necessaire to input data to calculate the dosage, like Figure 4.
+The buttons "Sobre os Materiais" (about the materials) and "Utilizando o Aplicativo" (using the app) show a simple help to the user about all the materials needed to enter data to calculate the dosage, as shown in Figure 4.
 
 <div>
 <img src="Figures/07.png" width="20%" hspace="5">
@@ -64,13 +64,13 @@ Button "Sobre os Materiais" (about the materials) and "Utilizando o Aplicativo" 
  <b>Figure 13:</b> DCAD - About Material Window and Using App Window
 </p>
 
-Finally, the last button "Sobre o Aplicativo" (about the app), show a informations about the institution and developers.
+Finally, the last button "Sobre o Aplicativo" (about the app), shows information about the institution and the developers.
 
 <div>
 <img src="Figures/10.png" width="25%" hspace="5">
 </div>
 <p>
- <b>Figure 15:</b> DCAD - About the App Window
+ <b>Figure 15:</b> DCAD - About the App
 </p>
 
 DCAD software has a Brazilian Registration in INPI (Instituto Nacional de Propriedade Industrial) and the registration number is BR 51 2016 000973-0.
@@ -87,7 +87,7 @@ REIS, A. W. Q. R.; MAGALHAES, M. S. ; OHNUMA JUNIOR, A. A. . Dosagem de Concreto
 
 REIS, A. W. Q. R.; MAGALHAES, M. S. ; BURGOS, R. B. . Desenvolvimento de um Software para Dosagem de CAD. In: CILAMCE 2016 - XXXVII Ibero-Latin American Congress on Computational Methods in Engineering, 2016, Brasília. CILAMCE 2016 - Proceedings, 2016. v. 1. p. 1.
 
-## Informations About the Software
+## Information About the Software
 
 Rio de Janeiro State University
 
@@ -98,5 +98,3 @@ Developer: Ana Waldila de Queiroz Ramiro Reis
 Professors: Margareth da Silva Magalhães and Rodrigo Bird Burgos
 
 Contact: anawaldila@hotmail.com
-
-Link for download: https://play.google.com/store/apps/details?id=uerj.dcad
