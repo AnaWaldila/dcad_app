@@ -28,7 +28,7 @@ The software starts with a main window, which the user can preview some operatio
 Finally, press the button "Result" (result) and a new window opens, as shown in Figure 3. In this window, the user needs to enter the volume of concrete, in "Volume de concreto (m³)" (volume of concrete, m³). After insert this information, just click the "Calcular" button (calculate) and the column is completed.
 
 <div>
-<img src="Figures/06.png" width="25%">
+<img src="Figures/06.png" width="20%">
 </div>
 <p>
  <b>Figure 3:</b> DCAD - Result Window
@@ -37,28 +37,20 @@ Finally, press the button "Result" (result) and a new window opens, as shown in 
 The buttons "Sobre os Materiais" (about the materials) and "Utilizando o Aplicativo" (using the app) show a simple help to the user about all the materials needed to enter data to calculate the dosage, as shown in Figure 4.
 
 <div>
-<img src="Figures/07.png" width="20%" hspace="5">
-</div>
-
-<div>
-<img src="Figures/08.png" width="20%" hspace="5">
-</div>
-
-<div>
-<img src="Figures/09.png" width="20%" hspace="5">
+<img src="Figures/12.png" width="80%" hspace="5">
 </div>
 
 <p>
- <b>Figure 13:</b> DCAD - About Material Window and Using App Window
+ <b>Figure 4:</b> DCAD - About Material Window and Using App Window
 </p>
 
 Finally, the last button "Sobre o Aplicativo" (about the app), shows information about the institution and the developers.
 
 <div>
-<img src="Figures/10.png" width="25%" hspace="5">
+<img src="Figures/10.png" width="20%" hspace="5">
 </div>
 <p>
- <b>Figure 15:</b> DCAD - About the App
+ <b>Figure 5:</b> DCAD - About the App
 </p>
 
 DCAD software has a Brazilian Registration in INPI (Instituto Nacional de Propriedade Industrial) and the registration number is BR 51 2016 000973-0.
